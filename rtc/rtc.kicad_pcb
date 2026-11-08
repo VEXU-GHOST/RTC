@@ -4586,7 +4586,7 @@
 		(uuid "fc34a2f2-8598-44d8-8109-d7276f81256f")
 	)
 	(gr_text "Made by \nHailin Chen"
-		(at 241 92 90)
+		(at 241.5 98.5 90)
 		(layer "F.SilkS")
 		(uuid "a286fce5-f8d9-4555-a766-b326daf4f423")
 		(effects
@@ -4595,7 +4595,7 @@
 				(thickness 0.15)
 				(bold yes)
 			)
-			(justify left bottom mirror)
+			(justify left bottom)
 		)
 	)
 	(gr_text "X D"
@@ -4625,7 +4625,7 @@
 		)
 	)
 	(gr_text "VEXU Ghost"
-		(at 238.5 97 90)
+		(at 238.5 104 90)
 		(layer "F.SilkS")
 		(uuid "d9f6512b-0f57-472a-9c88-918110a2bca1")
 		(effects
@@ -4634,11 +4634,11 @@
 				(thickness 0.2)
 				(bold yes)
 			)
-			(justify left bottom mirror)
+			(justify left bottom)
 		)
 	)
 	(gr_text "RTC V3"
-		(at 240 99.5 90)
+		(at 240 104 90)
 		(layer "F.SilkS")
 		(uuid "63466356-35fa-4dcf-8afe-c1006cd27614")
 		(effects
@@ -4647,7 +4647,7 @@
 				(thickness 0.2)
 				(bold yes)
 			)
-			(justify left bottom mirror)
+			(justify left bottom)
 		)
 	)
 	(gr_text "G C"
